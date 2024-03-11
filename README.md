@@ -1,14 +1,4 @@
-
-<p>Bahruz_Gurbanli_14129_20282</p>
-
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10476092&assignment_repo_type=AssignmentRepo)
-<h1> Assignment 1 </h1>
 <h3> Creating a simple JAVA application to implement a Banking System. </h3>
-
-Dear students,
-
-In this assignment, you need to submit you work to implement a Banking System (we have partially completed it during the
-classes).
 
 <h3>Task Related - List of the required types</h3>
 <ul>
@@ -137,9 +127,3 @@ When you compile, make sure your .class files are totally isolated from the rest
 Draw the class diagrams including all the association and relations among the classes. Add the image(s) to the project
 folder so that they are submitted to the repository as well. You may use any tool to draw the diagrams. Make sure you
 submit image format (.jpg or .png).
-
-<h4>Important notes:</h4>
-- Codes that do not compile and run will not be graded. <br />
-- Please, also refer to the course syllabus about the assignments. <br />
-- Each completed feature must be commited and pushed. <br />
-- This assignment will give you <strong><em>10 %</em></strong> of the overall. <br />
